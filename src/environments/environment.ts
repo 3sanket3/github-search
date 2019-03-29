@@ -4,7 +4,8 @@
 
 export const environment = {
          production: false,
-         apiUrl: 'https://api.github.com/users/jameskomo/repos access_token=a826798a370e9aaea3d76d77ef7871fcd40292f4'
+         apiUrl: 'https://api.github.com/',
+         access_token : 'a826798a370e9aaea3d76d77ef7871fcd40292f4'
        };
 
 /*
